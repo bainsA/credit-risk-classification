@@ -11,3 +11,5 @@ The results: Using a bulleted list, describe the accuracy score, the precision s
 A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
 
 I would recommend the machine learning model since it has a balanced accuracy score of 96.8% in predicting the probability a borrower would be able to repay the loan amount. 
+
+In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
