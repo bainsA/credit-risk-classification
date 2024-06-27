@@ -1,5 +1,6 @@
 # credit-risk-classification
 An overview of the analysis: Explain the purpose of this analysis.
+-- The purpose of this analysis was to determine the accuracy of the specific model in predicting the credit risk of borrowers from peer-to-lending services company. 
 
 The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
